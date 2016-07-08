@@ -1,2 +1,6 @@
 first branch
-create  a new branch3
+<<<<<<< HEAD
+create  a new branch
+=======
+create  a new branch 
+>>>>>>> dev1
