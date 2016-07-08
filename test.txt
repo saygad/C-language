@@ -5,3 +5,4 @@ create  a new branch
 create  a new branch 
 >>>>>>> dev1
 create a new branch1
+git stashnum1
