@@ -5,4 +5,8 @@ create  a new branch
 create  a new branch 
 >>>>>>> dev1
 create a new branch1
+<<<<<<< Updated upstream
 git stashnum1
+=======
+new stash
+>>>>>>> Stashed changes
